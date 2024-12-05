@@ -1,4 +1,4 @@
-# Title
+# TP 2 - Métriques de logiciel
 
 Exercices are inside of the [tp.pdf](./assets/tp.pdf) file.
 
