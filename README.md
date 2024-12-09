@@ -7,3 +7,4 @@ Source code is under the [src](./src/) folder
 ## Usage
 
 Solutions must be run through profiling software.
+> The code snippets are broken by design.
